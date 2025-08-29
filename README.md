@@ -40,6 +40,11 @@ pip install requests
 ```
 python cat_facts.py
 ```
+или
+
+```
+py cat_facts.py
+```
 
 ---
 
